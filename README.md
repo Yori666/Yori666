@@ -72,3 +72,8 @@ Meu objetivo é **conseguir minha primeira oportunidade como desenvolvedor** e e
 ⭐ Sempre aprendendo e evoluindo na programação
 
 </div>
+## 🕹️ Pacman Contributions
+
+<picture>
+  <img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/pacman-contribution-graph.svg">
+</picture>
