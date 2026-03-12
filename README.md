@@ -20,9 +20,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
 </div>
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
-
-
+![snake gif](https://github.com/Yori666/Yori666/blob/output/github-contribution-grid-snake.svg)
 ###
 
 <div align="center">
