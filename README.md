@@ -1,8 +1,6 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Olá+eu+sou+Tailan;Estudante+de+Programação;Futuro+Desenvolvedor+Full+Stack;Aprendendo+Python+todos+os+dias&font=Fira%20Code&center=true&width=600&height=45&color=00F7FF&vCenter=true&pause=1000&size=28" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Olá+eu+sou+Tailan;Estudante+de+Programação;Futuro+Desenvolvedor+Full+Stack;Aprendendo+Python&center=true&width=600&height=45">
 </p>
-
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Olá+eu+sou+Tailan;Estudante+de+Programação;Futuro+Desenvolvedor+Full+Stack;Aprendendo+Python+todos+os+dias" />
