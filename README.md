@@ -1,10 +1,8 @@
 <h1 align="center">👋 Fala pessoal! Eu sou o Tailan</h1>
 
-###
-
 <h3 align="center">💻 Estudante de Programação | Futuro Desenvolvedor Full Stack</h3>
 
-###
+---
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
@@ -20,21 +18,20 @@
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
 </div>
 
-
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dracula&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yori666&show_icons=true&theme=dracula&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yori666&layout=compact&theme=dracula" height="150" />
 </div>
 
-###
+---
 
 ## 🚀 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Estudando programação todos os dias  
-📚 Atualmente focado em **Python e desenvolvimento web**  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+💻 Estudando programação todos os dias
+📚 Atualmente focado em **Python e desenvolvimento web**
 
 Meu objetivo é **conseguir minha primeira oportunidade como desenvolvedor** e evoluir constantemente na área de tecnologia.
 
@@ -42,19 +39,19 @@ Meu objetivo é **conseguir minha primeira oportunidade como desenvolvedor** e e
 
 ## 📚 O que estou estudando atualmente
 
-- 🐍 Python  
-- ⚡ JavaScript  
-- 🌐 HTML & CSS  
-- 🔧 Git e GitHub  
-- 🧠 Lógica de programação  
+* 🐍 Python
+* ⚡ JavaScript
+* 🌐 HTML & CSS
+* 🔧 Git e GitHub
+* 🧠 Lógica de programação
 
 ---
 
 ## 📂 Projetos em desenvolvimento
 
-📌 Sistema de cadastro de pessoas em Python  
-📌 Exercícios de lógica de programação  
-📌 Projetos simples de HTML e CSS  
+📌 Sistema de cadastro de pessoas em Python
+📌 Exercícios de lógica de programação
+📌 Projetos simples de HTML e CSS
 
 🚧 Em breve novos projetos...
 
@@ -62,11 +59,13 @@ Meu objetivo é **conseguir minha primeira oportunidade como desenvolvedor** e e
 
 ## 📈 Objetivos
 
-✔ Evoluir como programador  
-✔ Construir um portfólio forte no GitHub  
-✔ Conseguir meu primeiro estágio em programação  
+✔ Evoluir como programador
+✔ Construir um portfólio forte no GitHub
+✔ Conseguir meu primeiro estágio em programação
 
 ---
+
+## 🕹️ Pacman Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yori666/Yori666/output/pacman-contribution-graph-dark.svg">
@@ -74,12 +73,13 @@ Meu objetivo é **conseguir minha primeira oportunidade como desenvolvedor** e e
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yori666/Yori666/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/Yori666/Yori666/output/pacman-contribution-graph.svg">
+---
 
 <div align="center">
 
-⭐ Sempre aprendendo e evoluindo na programação
+⭐ Obrigado por visitar meu perfil!
 
+</div>
 
 
 
