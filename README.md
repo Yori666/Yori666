@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
 </div>
 
-![snake gif](https://github.com/Yori666/Yori666/blob/output/github-contribution-grid-snake.svg)
+
 ###
 
 <div align="center">
@@ -68,17 +68,12 @@ Meu objetivo é **conseguir minha primeira oportunidade como desenvolvedor** e e
 
 ---
 
-
+<img src="https://raw.githubusercontent.com/Yori666/Yori666/output/pacman-contribution-graph.svg">
 
 <div align="center">
 
 ⭐ Sempre aprendendo e evoluindo na programação
 
-</div>
-## 🕹️ Pacman Contributions
 
-<picture>
-  <img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/pacman-contribution-graph.svg">
-</picture>
 
-![Pac-Man](https://raw.githubusercontent.com/Yori666/Yori666/output/pacman-contribution-graph.svg)
+
