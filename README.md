@@ -67,6 +67,8 @@ Meu objetivo é **conseguir minha primeira oportunidade como desenvolvedor** e e
 
 ---
 
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+
 <div align="center">
 
 ⭐ Sempre aprendendo e evoluindo na programação
