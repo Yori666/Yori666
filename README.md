@@ -20,6 +20,9 @@
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
 </div>
 
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+
+
 ###
 
 <div align="center">
@@ -67,7 +70,7 @@ Meu objetivo é **conseguir minha primeira oportunidade como desenvolvedor** e e
 
 ---
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+
 
 <div align="center">
 
