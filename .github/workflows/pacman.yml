@@ -1,20 +1,18 @@
-name: Generate Snake
+name: Generate Pac-Man contribution graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Yori666
-          outputs: |
-            dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
