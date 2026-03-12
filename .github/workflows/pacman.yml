@@ -7,14 +7,19 @@ on:
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
 
     steps:
-      - uses: abozanona/pacman-contribution-graph@main
+      - name: generate pacman graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Yori666
+          theme: dark
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
