@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Olá+eu+sou+Tailan;Estudante+de+Programação;Futuro+Desenvolvedor+Full+Stack;Aprendendo+Python+todos+os+dias" />
+
+</div>
+
 <h1 align="center">👋 Fala pessoal! Eu sou o Tailan</h1>
 
 <h3 align="center">💻 Estudante de Programação | Futuro Desenvolvedor Full Stack</h3>
@@ -80,6 +86,3 @@ Meu objetivo é **conseguir minha primeira oportunidade como desenvolvedor** e e
 ⭐ Obrigado por visitar meu perfil!
 
 </div>
-
-
-
