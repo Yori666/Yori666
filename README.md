@@ -1,71 +1,84 @@
-<h1 align="center">👋 Olá, eu sou Yori</h1>
+<h1 align="center">👋 Fala pessoal! Eu sou o Tailan</h1>
 
-<h3 align="center">💻 Estudante de Programação | Futuro Desenvolvedor</h3>
+###
+
+<h3 align="center">💻 Estudante de Programação | Futuro Desenvolvedor Full Stack</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+</div>
+
+![snake gif](https://github.com/Yori666/Yori666/blob/output/github-contribution-grid-snake.svg)
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dracula&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dracula" height="150" />
+</div>
+
+###
+
+## 🚀 Sobre mim
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Estudando programação todos os dias  
+📚 Atualmente focado em **Python e desenvolvimento web**  
+
+Meu objetivo é **conseguir minha primeira oportunidade como desenvolvedor** e evoluir constantemente na área de tecnologia.
 
 ---
 
-## 🚀 Tecnologias que estou estudando
+## 📚 O que estou estudando atualmente
+
+- 🐍 Python  
+- ⚡ JavaScript  
+- 🌐 HTML & CSS  
+- 🔧 Git e GitHub  
+- 🧠 Lógica de programação  
+
+---
+
+## 📂 Projetos em desenvolvimento
+
+📌 Sistema de cadastro de pessoas em Python  
+📌 Exercícios de lógica de programação  
+📌 Projetos simples de HTML e CSS  
+
+🚧 Em breve novos projetos...
+
+---
+
+## 📈 Objetivos
+
+✔ Evoluir como programador  
+✔ Construir um portfólio forte no GitHub  
+✔ Conseguir meu primeiro estágio em programação  
+
+---
+
+
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
+⭐ Sempre aprendendo e evoluindo na programação
 
 </div>
-
----
-
-## 🐍 Snake Animation
-
-<div align="center">
-
-![Snake animation](https://github.com/Yori666/Yori666/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 🕹️ Pacman Contributions
 
-<div align="center">
+<picture>
+  <img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/pacman-contribution-graph.svg">
+</picture>
 
-<img src="https://raw.githubusercontent.com/Yori666/Yori666/output/pacman-contribution-graph.svg">
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yori666\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yori666\&layout=compact\&theme=tokyonight)
-
-</div>
-
----
-
-## 📚 Atualmente estudando
-
-* 🐍 Python
-* ⚡ JavaScript
-* 🌐 HTML e CSS
-* 🔧 Git e GitHub
-* 🧠 Lógica de programação
-
----
-
-## 🎯 Objetivos
-
-* 🚀 Conseguir meu primeiro estágio em programação
-* 📈 Evoluir como desenvolvedor
-* 💻 Criar projetos para meu portfólio
-
----
-
-<div align="center">
-
-⭐ Obrigado por visitar meu perfil!
-
-</div>
+![Pac-Man](https://raw.githubusercontent.com/Yori666/Yori666/output/pacman-contribution-graph.svg)
